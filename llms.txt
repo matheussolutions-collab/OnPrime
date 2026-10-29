@@ -1,0 +1,23 @@
+# OnPrime
+
+> Loja de eletrônicos (OnPrime by Jardel iPhones). Foco em produtos Apple, celulares Xiaomi, áudio JBL e acessórios. Atendimento e vendas pelo WhatsApp e na loja física.
+
+A OnPrime vende iPhone, Apple Watch, AirPods, celulares Xiaomi (linhas Redmi e POCO), caixas de som e fones JBL, e acessórios como capas, películas, carregadores e cabos.
+
+Para comprar, pedir orçamento ou consultar preço, cores e disponibilidade, o cliente fala com a loja pelo WhatsApp: +55 99 99117-1926.
+
+## Contato
+
+- [WhatsApp da OnPrime](https://api.whatsapp.com/send/?phone=5599991171926&type=phone_number&app_absent=0): vendas, orçamentos e dúvidas
+- [Catálogo online](https://onprime-by-jardel-iphones.imoove.site/): todos os aparelhos e acessórios
+- [Instagram @onprimeoficial](https://www.instagram.com/onprimeoficial): novidades e lançamentos
+- [Localização no Google Maps](https://maps.google.com/?cid=9681590104674697196): loja física Jardel iPhones
+
+## Produtos em destaque
+
+- [iPhone 18 Pro Max](https://api.whatsapp.com/send/?phone=5599991171926&text=Ol%C3%A1%21%20Quero%20comprar%20o%20novo%20iPhone%2018%20Pro%20Max.&type=phone_number&app_absent=0): lançamento da Apple com estrutura unibody, nas cores preto, branco, azul e vinho
+- [Apple Watch Series 12](https://api.whatsapp.com/send/?phone=5599991171926&text=Ol%C3%A1%21%20Quero%20comprar%20o%20novo%20Apple%20Watch%20Series%2012.&type=phone_number&app_absent=0): relógio da Apple voltado para saúde
+- [AirPods 5](https://api.whatsapp.com/send/?phone=5599991171926&text=Ol%C3%A1%21%20Quero%20comprar%20os%20novos%20AirPods%205.&type=phone_number&app_absent=0): fones com Cancelamento Ativo de Ruído e Áudio Espacial Personalizado
+- [Xiaomi Redmi e POCO](https://api.whatsapp.com/send/?phone=5599991171926&text=Ol%C3%A1%21%20Quero%20ver%20os%20celulares%20Xiaomi.&type=phone_number&app_absent=0): celulares com bom custo-benefício
+- [JBL](https://api.whatsapp.com/send/?phone=5599991171926&text=Ol%C3%A1%21%20Quero%20ver%20os%20produtos%20JBL.&type=phone_number&app_absent=0): caixas de som e fones
+- [Acessórios](https://api.whatsapp.com/send/?phone=5599991171926&text=Ol%C3%A1%21%20Quero%20ver%20os%20acess%C3%B3rios.&type=phone_number&app_absent=0): capas, películas, carregadores e cabos
